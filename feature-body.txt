@@ -1,0 +1,16 @@
+<div id="body">
+ <section>
+  <nav>
+    <ul>
+      <li><a href="#">Git</a></li>
+      <li><a href="#">SCM</a></li>
+      <li><a href="#">Gitflow</a></li>
+    </ul>
+  </nav>
+  <article>
+    <h1>Contenido</h1>
+    <p>La capacidad de "ramificar" o de trabajar en BRANCH en sistemas de control de versiones se creó principalmente para permitir a los desarrolladores trabajasen en diferentes partes del sistema de software en paralelo.</p>
+    <p>Sin el riesgo de que los desarrolladores individuales verificaren cambios que podrían desestabilizar el trabajo o incluso de introducir errores en el TRUNK (o maestro o mainline).</p>
+  </article>
+ </section>
+</div> 
